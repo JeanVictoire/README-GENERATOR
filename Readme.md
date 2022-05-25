@@ -34,7 +34,7 @@ Follow the prompts to generate you automate Readme file
 
 https://drive.google.com/file/d/1xuyLQhISL142xZaec1eG5Raq1dlQkM1z/view
 
-<iframe src="https://drive.google.com/file/d/1xuyLQhISL142xZaec1eG5Raq1dlQkM1z/preview" width="640" height="480"></iframe>
+<img src="./ReadmeGenerator.gif" alt="ReadmeGenerator" height="700">
 
 ## Questions
 
